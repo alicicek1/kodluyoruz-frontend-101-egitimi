@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+</head>
+
+<body>
+  <img usemap="#workMap" height="800"
+    src="https://cdn.dsmcdn.com/ty67/product/media/images/20210204/1/59770849/62125068/1/1_org_zoom.jpg" alt="WorkPlace"
+    onload="PicUploaded()" />
+
+  <map name="workMap">
+    <area shape="rect" coords="170,120,350,290" href="https://google.com" alt="" />
+    <area shape="rect" coords="170,310,350,660" href="https://facebook.com" alt="" />
+    <area shape="rect" coords="170,680,350,950" href="https://trendyol.com" alt="" />
+  </map>
+
+  <a href="https://google.com" target="_self">Self</a>
+  <a href="https://google.com" target="_blank">Target</a>
+  <a href="https://google.com" target="_parent">Parent</a>
+  <a href="https://google.com" target="_top">Top</a>
+
+
+  <script>
+    function PicUploaded() {
+      alert("Picture is uploaded!")
+    }
+  </script>
+</body>
+
+</html>
