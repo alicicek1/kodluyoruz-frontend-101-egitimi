@@ -1,0 +1,28 @@
+
+.layout-header{
+    font-size: 2rem;
+    color: #999;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    padding: 0;
+    line-height: 1.2;
+
+}
+
+.layout-comp-btn{
+    background-color:#fc9999;
+    color: white;
+    margin-bottom: 5px,auto;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius:.25rem ;
+}
+nav-bar-btn
+
+.indexImg{
+    margin-left: 200px;
+    ;
+}
