@@ -1,0 +1,58 @@
+.center {
+  text-align: center;
+}
+
+.index-header {
+  color: coral;
+  font-size: 35px;
+}
+
+.navbar-btn {
+  border: turquoise;
+  border-radius: 0.25rem;
+  font-size: 10px;
+}
+
+.product-list-item {
+  list-style-position: inside;
+}
+
+.header-i {
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.header-p {
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.header-a{
+  font-size: 40px;
+  color: blueviolet;
+}
+
+.index-products{
+  list-style-position: inside;
+}
+
+.index-products-header{
+  font-size: 20px;
+  color: darkorange;
+}
+
+.a-init{
+
+}
+
+.index-vision-header{
+  color:darkorange;
+}
+
+.index-mission-header{
+  color: darkorange;
+}
+
+.product-img{
+  width: 300px;
+}
