@@ -1,0 +1,106 @@
+.nav-bar-header{
+    color:darkblue;
+}
+
+.nav-bar{
+    background-color: cornflowerblue;
+    border-radius: 100rem;
+}
+
+.nav-bar-btn{
+    color: darkslategrey;
+}
+
+.nav-bar-btns{
+    text-align: center;
+}
+
+.center{
+    align-self: center;
+    text-align: center;
+}
+
+.bg-main-page{
+    background-color: wheat;
+    opacity: 0.5;
+    margin: auto 100px;
+}
+
+.hr-main{
+    color: black;
+    width:50%;
+    text-align:center;
+    size: 20;
+}
+
+.i-header{
+    color: violet;
+}
+
+.index-products{
+    list-style-position: inside;
+  }
+  
+  .index-products-header{
+    font-size: 20px;
+    color: darkorange;
+  }
+
+  .ind-ab-btn{
+      background-color: blueviolet;
+      border-radius: .25em;
+      margin: 5px;
+      padding: 5px;
+      float: right;
+  }
+
+  .header-p{
+    color: violet;
+  }
+
+  .cart-p{
+      background-color:white;      
+      width: 350px;
+      height: 400px;
+      margin: 10px 10px;
+      padding: 10px;
+      border-radius: .5em;
+  }
+
+  .product-img{
+      width: 300px;
+      height: 233px;
+      margin: 0 30px;
+      padding: 10px;
+  }
+
+  .pr-info{
+      color: violet;
+      margin: 5px;
+      padding: 5px;
+  }
+
+  .price{
+      background-color: slategrey;
+      color: snow;
+      margin: 5px;
+      padding: 5px;
+      border-radius: .5em;
+  }
+  
+  .m5{
+      margin: 10px 10px
+  }
+
+  .index-vision-header{
+    color:darkorange;
+  }
+  
+  .index-mission-header{
+    color: darkorange;
+  }
+
+  .about-lay{
+    margin: 10px;
+    padding: 20px;
+  }
