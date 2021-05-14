@@ -1,0 +1,60 @@
+body {
+  font-family: "PT Serif", serif;
+}
+
+.header-intro {
+  font-size: 70px;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.header-bg {
+  background-color: #ffc017;
+  border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.header-link {
+  color: black;
+}
+
+.btn-h-gets {
+  background-color: #ffc017;
+  border: 1px solid;
+  border-radius: 5rem;
+}
+
+.float-right {
+  float: right;
+}
+
+.mr-10{
+    margin-left: 10px;
+}
+
+.r{
+    border-radius: 5rem;
+}
+
+.ml-2{
+    margin-left: 10px;
+}
+
+.mt-1{
+    margin-top:20px;
+}
+
+.mb-2{
+    margin-bottom: 10px;
+}
+
+.bb{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.aside-btns > li{
+    margin-bottom: 10px;
+    border-color: darkgray;
+    opacity: 50%;
+}
