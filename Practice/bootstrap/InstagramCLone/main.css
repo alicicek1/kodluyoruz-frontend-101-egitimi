@@ -1,0 +1,187 @@
+::placeholder {
+  text-align: center;
+  font-size: 14px;
+  color: gray;
+  background-position: 40%;
+  background-size: 6%;
+}
+
+input.empty {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  background-color: #fafafa;
+}
+
+.postusernamefont {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.postuserfont {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 13px;
+  color: black;
+  margin-top: 5px;
+}
+
+.post-r-userfont {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 13px;
+  color: blue;
+  margin-top: 5px;
+}
+
+.storyphoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 7px;
+  text-decoration: none;
+}
+
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.rightpanellinks {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.rightpanellinks:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.rightpanel {
+  width: 18rem;
+}
+
+.main-profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-left: -15px;
+}
+
+.r-info {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  color: gray;
+}
+
+.r-side-pic {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.r-side-footer {
+  color: lightgray;
+  font-size: 11px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.r-side-f-info {
+  font-size: 12px;
+}
+
+.n-searchbox {
+  font-family: Arial, FontAwesome;
+  height: 28px;
+  width: 216px;
+}
+
+.n-msn {
+  color: black;
+}
+
+.n-heart {
+  color: black;
+}
+
+.n-compass {
+  color: black;
+}
+
+.n-home {
+  color: black;
+}
+
+.h-prof-pic {
+  width: 23px;
+  height: 23px;
+  border-radius: 50%;
+}
+
+.post-pro-pic {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}
+
+.l-comment {
+  color: black;
+  position: relative;
+  font-size: 23px;
+  margin-left: -11px;
+}
+
+.l-heart {
+  color: black;
+  position: relative;
+  font-size: 23px;
+}
+
+.l-plane {
+  color: black;
+  position: relative;
+  font-size: 23px;
+  margin-left: -11px;
+}
+
+.l-bookmarks {
+  color: black;
+  position: relative;
+  font-size: 23px;
+}
+
+.l-ellipsis {
+  margin-left: 450px;
+}
+
+.card-img-top {
+  height: 500px;
+}
+
+.card-text {
+    margin-top: -10px;
+    margin-left: -4px;
+    font-size: 12px;
+    color: rgb(139, 133, 133);
+}
+
+.card-footer {
+  color: rgb(139, 133, 133);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+}
+
+.share-text {
+  color: #0095f6;
+  opacity: 50%;
+  float: right;
+}
